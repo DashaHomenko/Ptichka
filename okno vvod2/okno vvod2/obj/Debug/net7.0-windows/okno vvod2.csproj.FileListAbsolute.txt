@@ -1,0 +1,19 @@
+C:\Users\homen\source\repos\okno vvod2\okno vvod2\bin\Debug\net7.0-windows\okno vvod2.exe
+C:\Users\homen\source\repos\okno vvod2\okno vvod2\bin\Debug\net7.0-windows\okno vvod2.deps.json
+C:\Users\homen\source\repos\okno vvod2\okno vvod2\bin\Debug\net7.0-windows\okno vvod2.runtimeconfig.json
+C:\Users\homen\source\repos\okno vvod2\okno vvod2\bin\Debug\net7.0-windows\okno vvod2.dll
+C:\Users\homen\source\repos\okno vvod2\okno vvod2\bin\Debug\net7.0-windows\okno vvod2.pdb
+C:\Users\homen\source\repos\okno vvod2\okno vvod2\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\homen\source\repos\okno vvod2\okno vvod2\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\homen\source\repos\okno vvod2\okno vvod2\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\homen\source\repos\okno vvod2\okno vvod2\obj\Debug\net7.0-windows\okno vvod2_MarkupCompile.cache
+C:\Users\homen\source\repos\okno vvod2\okno vvod2\obj\Debug\net7.0-windows\okno vvod2.g.resources
+C:\Users\homen\source\repos\okno vvod2\okno vvod2\obj\Debug\net7.0-windows\okno vvod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\homen\source\repos\okno vvod2\okno vvod2\obj\Debug\net7.0-windows\okno vvod2.AssemblyInfoInputs.cache
+C:\Users\homen\source\repos\okno vvod2\okno vvod2\obj\Debug\net7.0-windows\okno vvod2.AssemblyInfo.cs
+C:\Users\homen\source\repos\okno vvod2\okno vvod2\obj\Debug\net7.0-windows\okno vvod2.csproj.CoreCompileInputs.cache
+C:\Users\homen\source\repos\okno vvod2\okno vvod2\obj\Debug\net7.0-windows\okno vvod2.dll
+C:\Users\homen\source\repos\okno vvod2\okno vvod2\obj\Debug\net7.0-windows\refint\okno vvod2.dll
+C:\Users\homen\source\repos\okno vvod2\okno vvod2\obj\Debug\net7.0-windows\okno vvod2.pdb
+C:\Users\homen\source\repos\okno vvod2\okno vvod2\obj\Debug\net7.0-windows\okno vvod2.genruntimeconfig.cache
+C:\Users\homen\source\repos\okno vvod2\okno vvod2\obj\Debug\net7.0-windows\ref\okno vvod2.dll

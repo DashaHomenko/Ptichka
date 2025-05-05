@@ -1,0 +1,33 @@
+﻿<Window x:Class="FlightCalculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Калькулятор параметров полета" Height="350" Width="400">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Text="Начальная скорость (м/с):" Margin="0,0,0,5"/>
+        <TextBox Grid.Row="1" x:Name="InitialVelocityTextBox" Margin="0,0,0,10"/>
+
+        <TextBlock Grid.Row="2" Text="Угол запуска (градусы):" Margin="0,0,0,5"/>
+        <TextBox Grid.Row="3" x:Name="LaunchAngleTextBox" Margin="0,0,0,10"/>
+
+        <Button Grid.Row="4" Content="Рассчитать" Click="CalculateButton_Click" Margin="0,0,0,10" Padding="10,5"/>
+
+        <TextBlock Grid.Row="5" Text="Результаты:" FontWeight="Bold" Margin="0,10,0,5"/>
+
+        <StackPanel Grid.Row="6" Orientation="Vertical">
+            <TextBlock x:Name="TimeOfFlightText" Margin="0,0,0,5"/>
+            <TextBlock x:Name="RangeText" Margin="0,0,0,5"/>
+            <TextBlock x:Name="MaxHeightText" Margin="0,0,0,5"/>
+        </StackPanel>
+    </Grid>
+</Window>

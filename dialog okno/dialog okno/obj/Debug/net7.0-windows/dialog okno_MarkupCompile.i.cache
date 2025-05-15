@@ -1,0 +1,20 @@
+﻿dialog okno
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\homen\source\repos\dialog okno\dialog okno\obj\Debug\net7.0-windows\
+dialog_okno
+none
+false
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+C:\Users\homen\source\repos\dialog okno\dialog okno\App.xaml
+3764871949
+
+7866142768
+198-759771931
+AboutWindow.xaml;MainWindow.xaml;SettingWindow.xaml;
+
+False
+

@@ -1,0 +1,25 @@
+﻿<Window x:Class="ParabolaTrajectory.AboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="О программе" Height="250" Width="400"
+        WindowStartupLocation="CenterOwner">
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock Text="Параболическая траектория" 
+                       FontSize="18" FontWeight="Bold" 
+                       HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+            <TextBlock Text="Версия 1.0" HorizontalAlignment="Center"/>
+            <TextBlock Text="Программа для расчета и визуализации" HorizontalAlignment="Center"/>
+            <TextBlock Text="траектории тела, брошенного под углом к горизонту" HorizontalAlignment="Center"/>
+
+            <Separator Margin="0,20,0,20"/>
+
+            <TextBlock Text="© 2023 Ваша компания" HorizontalAlignment="Center"/>
+            <TextBlock Text="Все права защищены" HorizontalAlignment="Center"/>
+
+            <Button Content="OK" Width="80" HorizontalAlignment="Center" 
+                    Margin="0,20,0,0" Click="OK_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

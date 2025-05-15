@@ -1,0 +1,23 @@
+C:\Users\homen\source\repos\dialog okno\dialog okno\obj\Debug\net7.0-windows\AboutWindow.baml
+C:\Users\homen\source\repos\dialog okno\dialog okno\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\homen\source\repos\dialog okno\dialog okno\obj\Debug\net7.0-windows\SettingWindow.baml
+C:\Users\homen\source\repos\dialog okno\dialog okno\obj\Debug\net7.0-windows\AboutWindow.g.cs
+C:\Users\homen\source\repos\dialog okno\dialog okno\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\homen\source\repos\dialog okno\dialog okno\obj\Debug\net7.0-windows\SettingWindow.g.cs
+C:\Users\homen\source\repos\dialog okno\dialog okno\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\homen\source\repos\dialog okno\dialog okno\obj\Debug\net7.0-windows\dialog okno_MarkupCompile.cache
+C:\Users\homen\source\repos\dialog okno\dialog okno\obj\Debug\net7.0-windows\dialog okno.g.resources
+C:\Users\homen\source\repos\dialog okno\dialog okno\obj\Debug\net7.0-windows\dialog okno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\homen\source\repos\dialog okno\dialog okno\obj\Debug\net7.0-windows\dialog okno.AssemblyInfoInputs.cache
+C:\Users\homen\source\repos\dialog okno\dialog okno\obj\Debug\net7.0-windows\dialog okno.AssemblyInfo.cs
+C:\Users\homen\source\repos\dialog okno\dialog okno\obj\Debug\net7.0-windows\dialog okno.csproj.CoreCompileInputs.cache
+C:\Users\homen\source\repos\dialog okno\dialog okno\bin\Debug\net7.0-windows\dialog okno.exe
+C:\Users\homen\source\repos\dialog okno\dialog okno\bin\Debug\net7.0-windows\dialog okno.deps.json
+C:\Users\homen\source\repos\dialog okno\dialog okno\bin\Debug\net7.0-windows\dialog okno.runtimeconfig.json
+C:\Users\homen\source\repos\dialog okno\dialog okno\bin\Debug\net7.0-windows\dialog okno.dll
+C:\Users\homen\source\repos\dialog okno\dialog okno\bin\Debug\net7.0-windows\dialog okno.pdb
+C:\Users\homen\source\repos\dialog okno\dialog okno\obj\Debug\net7.0-windows\dialog okno.dll
+C:\Users\homen\source\repos\dialog okno\dialog okno\obj\Debug\net7.0-windows\refint\dialog okno.dll
+C:\Users\homen\source\repos\dialog okno\dialog okno\obj\Debug\net7.0-windows\dialog okno.pdb
+C:\Users\homen\source\repos\dialog okno\dialog okno\obj\Debug\net7.0-windows\dialog okno.genruntimeconfig.cache
+C:\Users\homen\source\repos\dialog okno\dialog okno\obj\Debug\net7.0-windows\ref\dialog okno.dll

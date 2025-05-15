@@ -4,11 +4,11 @@
 winexe
 C#
 .cs
-C:\Users\homen\source\repos\Ptichka\parabolaTrajectory\parabolaTrajectory\obj\Debug\net7.0-windows\
+C:\Users\homen\source\repos\Ptichka\parabolaTrajectory\parabolaTrajectory\obj\Release\net7.0-windows\
 parabolaTrajectory
 none
 false
-TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+TRACE;RELEASE;NET;NET7_0;NETCOREAPP
 C:\Users\homen\source\repos\Ptichka\parabolaTrajectory\parabolaTrajectory\App.xaml
 11407045341
 
